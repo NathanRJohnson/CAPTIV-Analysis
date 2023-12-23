@@ -1,0 +1,15 @@
+__pycache__/
+graham-TF-tools/
+pd/
+sampled.zip
+temp.py
+test.ipynb
+data/cleaned
+data/folds
+data/labels
+data/pd-ready
+data/sampled
+data/windowed
+*_table.csv
+results/
+

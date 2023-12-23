@@ -1,0 +1,1 @@
+{'Angle_Neck_Rotation accuracy': 0.6775059123934051, 'Angle_Neck_Rotation f1': 0.6100247333463366}
